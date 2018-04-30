@@ -1,0 +1,5 @@
+com\anthem\springcloud\filter\PreFilter.class
+com\anthem\springcloud\filter\ErrorFilter.class
+com\anthem\springcloud\filter\PostFilter.class
+com\anthem\springcloud\Application.class
+com\anthem\springcloud\filter\RouteFilter.class
